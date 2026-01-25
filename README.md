@@ -2,7 +2,7 @@
 The objective is to predict the median house value. 
 
 # Overview :
-This project builds a model to predict California district house prices using district features like location and amenities. It applies simple linear regression (one feature) and multiple linear regression (several features) to spot key price influencers and boost prediction accuracy
+This project builds a model to predict house prices using district features like location and amenities. It applies simple linear regression (one feature) and multiple linear regression (several features) to spot key price influencers and boost prediction accuracy
 
 # Deliverables :
 ● Exploratory Data Analysis (EDA) with visualizations and summary statistics.
